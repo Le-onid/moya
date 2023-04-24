@@ -1,0 +1,34 @@
+.virs{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 10%;
+    font-family: 'Alkatra', cursive
+}
+.left{
+    float: left;
+    margin-left: 25%;
+}
+.right{
+    float: right;
+    margin-right: 25%;
+}
+.para{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 35px;
+    font-family: 'Fasthand', cursive;
+}
+.centers{
+    margin-left: 40%;
+    margin-right: 40%;
+    height: 20%;
+    width: 20%;
+    margin-top: 10%;
+}
+.bodi{
+    background-color: #f79e02;
+}
+
+
+     
